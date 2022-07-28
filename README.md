@@ -21,7 +21,7 @@ Engin Demiroğun Eğtimenliğini Yaptığı Java Spring Bootcamp'i Başarıylar 
 
 ## Contact
 
-Ömer Fauk Aykaç - farukomeraykac1@gmail.com
+Ömer Fauk Aykaç - farukomeraykac@gmail.com
 
 Project Link: [https://github.com/TheAykac/Human-Resources-Management-Project)
 
