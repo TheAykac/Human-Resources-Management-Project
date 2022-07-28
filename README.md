@@ -35,6 +35,8 @@ farukomeraykac@gmail.com
 
 https://www.linkedin.com/in/omerfarukaykac
 
+
+
 Project Link: [https://github.com/TheAykac/Human-Resources-Management-Project)
 
 ## Acknowledgements
