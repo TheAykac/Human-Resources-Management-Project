@@ -15,9 +15,9 @@ Engin Demiroğun Eğtimenliğini Yaptığı Java Spring Bootcamp'i Başarıylar 
 
 ## Models
 
-![Untitled](https://user-images.githubusercontent.com/101461108/181653563-fb76eca3-2a09-4cc7-b85a-fbf5db92ffaf.png/style=for-the-badge&logo=java&logoColor=white)
 
 
+![Untitled](https://user-images.githubusercontent.com/101461108/181654852-f75146b1-90d7-4810-ad5e-5dd8b3959ac2.png)
 
 
 
@@ -29,11 +29,16 @@ Engin Demiroğun Eğtimenliğini Yaptığı Java Spring Bootcamp'i Başarıylar 
 
 ![icons8-linkedin-circled-30](https://user-images.githubusercontent.com/101461108/181654478-86876454-bbef-4a03-bcf4-da44ee71db73.png)
 
-farukomeraykac@gmail.com
+
+https://www.linkedin.com/in/omerfarukaykac
+
+
 
 ![icons8-gmail-logo-48](https://user-images.githubusercontent.com/101461108/181654646-467fd580-61ff-43a6-9b09-869ce36500b9.png)
 
-https://www.linkedin.com/in/omerfarukaykac
+
+
+farukomeraykac@gmail.com
 
 
 
