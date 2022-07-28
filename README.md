@@ -15,7 +15,7 @@ Engin Demiroğun Eğtimenliğini Yaptığı Java Spring Bootcamp'i Başarıylar 
 
 ## Models
 
-![Untitled](https://user-images.githubusercontent.com/101461108/181653563-fb76eca3-2a09-4cc7-b85a-fbf5db92ffaf.png)
+![Untitled](https://user-images.githubusercontent.com/101461108/181653563-fb76eca3-2a09-4cc7-b85a-fbf5db92ffaf.png/style=for-the-badge&logo=java&logoColor=white)
 
 
 ![linkedi](https://user-images.githubusercontent.com/101461108/181653887-2773f455-797c-4d66-b83c-0ccb400e885f.jpg)
